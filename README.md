@@ -11,3 +11,5 @@ I’ve written a script called server-stats.sh that can be run on any Linux serv
 🔥 Top 5 processes by CPU usage — helps identify which processes are consuming the most CPU.
 
 🧠 Top 5 processes by memory usage — highlights the processes using the most memory
+
+** Project URL** : https://roadmap.sh/projects/server-stats 
